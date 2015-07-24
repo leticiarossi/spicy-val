@@ -1,2 +1,2 @@
-# spicy-val
-First app attempt 
+# Spicy Val
+First app attempt using Swift and Xcode. 
